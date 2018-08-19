@@ -6,7 +6,7 @@
 ## Usage
 
 ```sh
-docker run -v "$PWD":/app --rm -it dockerstabil/box compile
+docker run -v "$PWD":/app --rm -it dockerstabil/box box compile
 ```
 
 
